@@ -42,4 +42,6 @@ Initial data exploration and calculations were performed in Excel. Key steps inc
 Further insights were gathered using SQL queries to address specific business questions. Here are the queries used and the insights they provided:
 
 1. Total Sales by Product Category:
+    ! [Capture 1_] (capture 1_)
+   
    
