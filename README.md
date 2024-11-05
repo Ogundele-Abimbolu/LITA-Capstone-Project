@@ -1,2 +1,2 @@
 # LITA-Capstone-Project
-Analyzing the sales performance of a retail store.  Exploring sales data to uncover key insights such as top-selling products, regional  performance, and monthly sales trends.
+This project analyzes the sales performance data of a retail store to uncover insights on top products, regional performance, and monthly sales trends. The goal of this analysis is to assist decision-makers in making informed business choices. The insights are visualized in an interactive Power BI dashboard.
