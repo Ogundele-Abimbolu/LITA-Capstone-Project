@@ -127,6 +127,28 @@ HAVING SUM(sales_amount) IS NULL OR SUM(sales_amount) = 0;
  * Insight: Identifies products with poor performance for potential review.
 
 
+# Power BI Dashboard
+The Power BI dashboard visualizes the main findings, allowing stakeholders to interact with and explore the data.
 
-   
+* Sales Overview: Highlights total sales, total transactions, and average sales per product.
+* Top Products: A visual summary of the top-selling products.
+* Regional Breakdown: A map showing total sales by region, with transaction count and revenue details.
+* Monthly Sales Trends: A line chart displaying sales over months to identify seasonal trends.
+* Customer Insights: A breakdown of the top customers by purchase amount.
+
+The dashboard includes filters and slicers for categories, regions, and date ranges, enabling users to analyze specific segments of the data.
+
+
+## Key Insights and Recommendations
+Based on the analysis, here are the main takeaways and actionable recommendations:
+
+- Top Products: Key products drive a significant portion of sales. Recommend optimizing stock levels for these products.
+- Regional Performance: Some regions contribute more to sales, suggesting focused marketing could enhance performance in lower-performing areas.
+- Monthly Trends: Monthly trends reveal seasonal spikes, useful for inventory and marketing planning.
+  
+## Recommendations:
+
+1. Increase inventory for top-selling products.
+2. Launch targeted marketing campaigns in underperforming regions.
+3. Plan inventory around identified peak sales months.
    
