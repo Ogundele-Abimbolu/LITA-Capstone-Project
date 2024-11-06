@@ -138,6 +138,9 @@ The Power BI dashboard visualizes the main findings, allowing stakeholders to in
 
 The dashboard includes filters and slicers for categories, regions, and date ranges, enabling users to analyze specific segments of the data.
 
+![LITA CAPSTONE PROJECT 1 SUBMIT](https://github.com/user-attachments/assets/35a504b0-7975-4db9-8b9c-cd866ca67631)
+
+![LITA CAPSTONE PROJECT II SUBMIT](https://github.com/user-attachments/assets/6e920b9b-f6f9-442d-b4db-6e1eb796ef37)
 
 ## Key Insights and Recommendations
 Based on the analysis, here are the main takeaways and actionable recommendations:
