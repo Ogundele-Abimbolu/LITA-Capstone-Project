@@ -2,14 +2,14 @@
 This project analyzes the sales performance data of a retail store to uncover insights on top products, regional performance, and monthly sales trends. The goal of this analysis is to assist decision-makers in making informed business choices. The insights are visualized in an interactive Power BI dashboard.
 
 ## Table of Contents
-1. [Project Overview](project overview)
-2. Data Analysis
-   * Excel Analysis
-   * SQL Analysis
-3. Power BI Dashboard
-4. Key Insights and Recommendations
-5. Repository Structure
-6. How to View the Dashboard
+1. [Project Overview](#project-overview)
+2. [ Data Analysis](#data-analysis)
+   * [Excel Analysis](#excel-analysis)
+   * [SQL Analysis](#sql-analysis)
+3. [Power BI Dashboard](#power-bi-dashboard)
+4. [Key Insights and Recommendations](key-insights-and-recommendations)
+5. [Repository Structure](#repository-structure)
+6. [How to View the Dashboard](#how-to-view-the-dashboard)
 
 ## Project Overview
 This project is part of the LITA Capstone, where we aim to extract meaningful insights from sales data using Excel, SQL, and Power BI. The insights are expected to support business decisions by identifying trends, top-selling products, and regional sales performance.
@@ -25,16 +25,16 @@ This project is part of the LITA Capstone, where we aim to extract meaningful in
 ## Excel Analysis
 Initial data exploration and calculations were performed in Excel. Key steps included:
 
-* ## Pivot Tables:
+* ### Pivot Tables:
      * Created pivot tabled to display:
        * Total Sales by Product: To identify high-performing products.
        * Sales by Region: To determine regional demand.
        * Monthly Sales Trends: To identify seasonality in sales.
-* ## Calculations:
+* ### Calculations:
      * Used Excel formulas to calculate metrics such as:
         * Average Sales per Product: Provides a benchmark for product performance.
         * Total Revenue by Region: To see which regions contributed most to revenue.
-* ## Additional Reports:
+* ### Additional Reports:
      * Analyzed top-selling products using filtering options in the pivot tables.
 
 
