@@ -1,5 +1,5 @@
 # LITA-Capstone-Project
-This project analyzes the sales performance data of a retail store to uncover insights on top products, regional performance, and monthly sales trends. The goal of this analysis is to assist decision-makers in making informed business choices. The insights are visualized in an interactive Power BI dashboard.
+This project analyses sales performance data from a retail store to uncover insights into top products, regional performance, and monthly sales trends. The goal of this analysis is to help decision-makers make informed business decisions. The insights are visualised in an interactive Power BI dashboard.
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
@@ -18,7 +18,7 @@ This project is part of the LITA Capstone, where we aim to extract meaningful in
 ## Tools Used:
 * Excel for data exploration
 * SQL for querying and analysis
-* Power BI for interactive data visualization
+* Power BI for interactive data visualisation
 
 
 # Data Analysis
@@ -26,7 +26,7 @@ This project is part of the LITA Capstone, where we aim to extract meaningful in
 Initial data exploration and calculations were performed in Excel. Key steps included:
 
 * ### Pivot Tables:
-     * Created pivot tabled to display:
+     * Created a pivot table to display:
        * Total Sales by Product: To identify high-performing products.
        * Sales by Region: To determine regional demand.
        * Monthly Sales Trends: To identify seasonality in sales.
@@ -35,7 +35,7 @@ Initial data exploration and calculations were performed in Excel. Key steps inc
         * Average Sales per Product: Provides a benchmark for product performance.
         * Total Revenue by Region: To see which regions contributed most to revenue.
 * ### Additional Reports:
-     * Analyzed top-selling products using filtering options in the pivot tables.
+     * Analysed top-selling products using filtering options in the pivot tables.
 
 
 # SQL Analysis
@@ -128,7 +128,7 @@ HAVING SUM(sales_amount) IS NULL OR SUM(sales_amount) = 0;
 
 
 # Power BI Dashboard
-The Power BI dashboard visualizes the main findings, allowing stakeholders to interact with and explore the data.
+The Power BI dashboard visualises the main findings, allowing stakeholders to interact with and explore the data.
 
 * Sales Overview: Highlights total sales, total transactions, and average sales per product.
 * Top Products: A visual summary of the top-selling products.
@@ -136,7 +136,7 @@ The Power BI dashboard visualizes the main findings, allowing stakeholders to in
 * Monthly Sales Trends: A line chart displaying sales over months to identify seasonal trends.
 * Customer Insights: A breakdown of the top customers by purchase amount.
 
-The dashboard includes filters and slicers for categories, regions, and date ranges, enabling users to analyze specific segments of the data.
+The dashboard includes filters and slicers for categories, regions, and date ranges, enabling users to analyse specific segments of the data.
 
 ![LITA CAPSTONE PROJECT 1 SUBMIT](https://github.com/user-attachments/assets/35a504b0-7975-4db9-8b9c-cd866ca67631)
 
@@ -145,7 +145,7 @@ The dashboard includes filters and slicers for categories, regions, and date ran
 ## Key Insights and Recommendations
 Based on the analysis, here are the main takeaways and actionable recommendations:
 
-- Top Products: Key products drive a significant portion of sales. Recommend optimizing stock levels for these products.
+- Top Products: Key products drive a significant portion of sales. Recommend optimising stock levels for these products.
 - Regional Performance: Some regions contribute more to sales, suggesting focused marketing could enhance performance in lower-performing areas.
 - Monthly Trends: Monthly trends reveal seasonal spikes, useful for inventory and marketing planning.
   
